@@ -1,19 +1,78 @@
 <h1 align="center">Hi 👋, I'm Hưng (Prosper)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+2nd-year Information Systems student at UIT<br/>
+Web Backend focused • Exploring Cybersecurity & AI
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosperum26&label=Profile%20views&color=0e75b6&style=flat" alt="prosperum26" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/quảng phú hưng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quảng phú hưng" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prosperum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prosperum" height="30" width="40" /></a>
+<p align="center">
+💻 My primary focus is <b>Web Backend Development</b>, while actively exploring <b>Cybersecurity</b> and <b>AI</b>.<br/>
+📚 Currently building strong foundations in systems, networking, and problem-solving.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prosperum26&label=Profile%20views&color=0e75b6&style=flat" alt="prosperum26" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prosperum26&show_icons=true&locale=en&layout=compact" alt="prosperum26" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prosperum26&show_icons=true&locale=en" alt="prosperum26" /></p>
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/qu%E1%BA%A3ng-ph%C3%BA-h%C6%B0ng" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/prosperum" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prosperum26&" alt="prosperum26" /></p>
+---
+
+<h3 align="left">🛠 Tech Stack</h3>
+
+<h4>Languages</h4>
+<ul>
+  <li>C++</li>
+  <li>Python (reading & understanding)</li>
+  <li>JavaScript (basic)</li>
+  <li>SQL</li>
+</ul>
+
+<h4>Currently Learning</h4>
+<ul>
+  <li>Web Backend Development</li>
+  <li>Linux & Operating Systems</li>
+  <li>Computer Networking</li>
+  <li>AI fundamentals</li>
+</ul>
+
+---
+
+<h3 align="left">🧰 Tools & Environment</h3>
+<ul>
+  <li>VS Code, Cursor</li>
+  <li>Git & GitHub</li>
+  <li>Linux / WSL</li>
+  <li>SQL Server</li>
+  <li>Godot</li>
+</ul>
+
+<h4>Security Tools (Learning)</h4>
+<ul>
+  <li>Wireshark</li>
+  <li>Nmap</li>
+  <li>Burp Suite</li>
+  <li>HxD</li>
+</ul>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prosperum26&show_icons=true&locale=en&layout=compact" alt="prosperum26" />
+</p>
+
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prosperum26&show_icons=true&locale=en" alt="prosperum26" />
+</p>
