@@ -17,7 +17,7 @@ Web Backend focused • Exploring Cybersecurity & AI
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/qu%E1%BA%A3ng-ph%C3%BA-h%C6%B0ng" target="_blank">
+  <a href="www.linkedin.com/in/phú-hưng-quảng-715156386" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/prosperum" target="_blank">
