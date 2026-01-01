@@ -64,15 +64,3 @@ Web Backend focused • Exploring Cybersecurity & AI
   <li>HxD</li>
 </ul>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prosperum26&show_icons=true&locale=en&layout=compact" alt="prosperum26" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prosperum26&show_icons=true&locale=en" alt="prosperum26" />
-</p>
