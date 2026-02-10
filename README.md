@@ -32,8 +32,8 @@ Web Backend focused • Exploring Cybersecurity & AI
 <h4>Languages</h4>
 <ul>
   <li>C++</li>
-  <li>Python (reading & understanding)</li>
-  <li>JavaScript (basic)</li>
+  <li>Python</li>
+  <li>JavaScript, HTML, CSS (basic)</li>
   <li>SQL</li>
 </ul>
 
