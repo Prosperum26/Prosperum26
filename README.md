@@ -66,6 +66,15 @@ Backend Developer • Exploring AI Systems
 
 ---
 
+<h3>AI Research Trainee (Ongoing)</h3>
+<ul>
+  <li>Studying fundamentals of neural networks and modern AI systems</li>
+  <li>Implementing small-scale experiments related to LLMs and data processing</li>
+  <li>Currently developing a project to fine-tune an AI model for high-quality Vietnamese Q&A</li>
+</ul>
+
+---
+
 <h3 align="left">🧰 Tools & Environment</h3>
 <ul>
   <li>VS Code, Cursor, Windsurf, IntelliJ IDEA</li>
