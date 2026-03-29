@@ -108,11 +108,6 @@ Backend Developer • Exploring AI Systems
   <li>Game development experiments</li>
 </ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prosperum26&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperum26&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 <hr/>
 
 <p align="center">
