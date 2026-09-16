@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hưng (Prosper)</h1>
 <h3 align="center">
-2nd-year Information Systems student at UIT<br/>
+Information Systems student at UIT<br/>
 Backend Developer • Exploring AI Systems
 </h3>
 
